@@ -65,7 +65,6 @@ A standalone service for registration to Discovery service.
 
 # Requirements
 1. `zk-registry` library
-    * https://github.com/denvash/zk-registry
     
 # Design
 Depends on `zk-registry` library.
