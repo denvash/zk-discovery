@@ -6,8 +6,6 @@ After registering, you are able to check health status about the service -
 by using `zk-srv-discovery` or with 
 `org.apache.curator.x.discovery.ServiceDiscovery` instance.
 
-* https://github.com/denvash/zk-srv-discovery
-
 # Requirements:
 1. ZooKeeper 3.5.x
     * ZooKeeper 3.4.x - 
